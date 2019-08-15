@@ -1,0 +1,17 @@
+commit 3772171a9dd1190f4c0b1becd97b90248742794e
+Author: Sai-Bhavana <saibhavanaduvvi@gmail.com>
+Date:   Thu Aug 15 19:39:18 2019 +0530
+
+    added gitignore
+
+commit 5748a04071a4320977d9a4ff7ec040d4b70024bf
+Author: Sai-Bhavana <saibhavanaduvvi@gmail.com>
+Date:   Fri Jul 26 21:14:23 2019 +0530
+
+     added two files
+
+commit 72adf5b5878d2fad660c57f63978f79c5fad6e54
+Author: Sai-Bhavana <saibhavanaduvvi@gmail.com>
+Date:   Fri Jul 26 20:52:17 2019 +0530
+
+    added a.txt
